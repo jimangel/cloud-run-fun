@@ -1,0 +1,5 @@
+- create Dockerfile(s) for the react apps
+- create and publish public containers
+- build TF demo out / test (internal cloud run with TLS)
+- commit code
+- bonus: draw diagram
